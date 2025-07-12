@@ -1,16 +1,19 @@
-# product_expo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SmartEzyGo is a Flutter-based mobile application built to simplify campus life by providing features like food ordering, cart management, campus amenity selection, and real-time Firebase integration. This app is designed for students to seamlessly navigate services like the campus food court and amenities from one place.
+<b>Features<b>
+	•	Authentication
+	•	Firebase Email/Password login
+	•	Google Sign-In support
+	•	Shopping & Cart
+	•	Add/remove items to cart
+	•	View and manage order list
+	•	Food Court Integration
+	•	Explore snacks and food items
+	•	Place orders from within the app
+	•	 Favorites & Wishlist
+	•	Mark items as favorite
+	•	Quick access to preferred items
+	•	 Admin Dashboard Support
+	•	Real-time product data fetched from Firebase
+	•	Integrated for admin-level management (outside app)
+	•	 Wallet & Profile
+	•	Digital wallet and user profile management
